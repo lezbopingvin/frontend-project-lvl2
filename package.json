@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/lezbopingvin/frontend-project-lvl2#readme",
   "dependencies": {
-    "commander": "^7.1.0"
+    "commander": "^7.1.0",
+    "fs": "^0.0.1-security"
   },
   "devDependencies": {
     "eslint": "^7.22.0",
